@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer interested in buildi
 ---
 
 ## 🚀 About Me
-- 🛠️ I’m currently building **[Worklog Pro – A Task & Performance Tracker for Professionals](#)**  
+- 🛠️ I’m currently building Worklog Pro – A Task & Performance Tracker for Professionals 
 - 📚 I’m exploring **AI/ML**, **DevOps**, and system design to deepen my backend expertise.
 - 🤝 I’m open to collaborating on projects involving AI, web apps, developer tools, or anything that solves real-world problems.
 - 💡 I believe great things come from curiosity, consistency, and community.
