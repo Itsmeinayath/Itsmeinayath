@@ -42,7 +42,7 @@ Welcome to my digital workspace! I’m a curious builder, full-stack developer, 
 
 ## 🌱 A Bit More About Me
 
-I started coding by tinkering—breaking things, fixing them, and building cool stuff along the way. Now, every project is a new adventure: a chance to learn, help others, and create something meaningful.
+I started coding by tinkering breaking things, fixing them, and building cool stuff along the way. Now, every project is a new adventure: a chance to learn, help others, and create something meaningful.
 
 ---
 
