@@ -121,6 +121,6 @@ Started as a **curious tinkerer** who loved breaking things apart to understand 
 
 *Thanks for stopping by! If you find my work interesting, feel free to ⭐ a repo or drop me a line.*
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
