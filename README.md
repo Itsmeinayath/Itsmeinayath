@@ -60,17 +60,6 @@ I'm a **curious builder** and **full-stack developer** passionate about creating
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Itsmeinayath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmeinayath&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🌟 Key Highlights
 
 - 🚀 **10+ Projects** shipped and actively maintained
