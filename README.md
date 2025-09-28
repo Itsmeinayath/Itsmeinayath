@@ -3,6 +3,7 @@
 # 👋 Hey, I'm Mohammed Inayath!
 
 ### Full-Stack Developer | AI Enthusiast | Digital Creator
+---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+AI-Driven+Solutions;Full-Stack+Web+Developer;Always+Learning%2C+Always+Building;Let's+Create+Something+Amazing!" alt="Typing SVG" />
 </div>
