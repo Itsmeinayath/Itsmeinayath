@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Mohammed Inayath!
+ 👋 Hey, I'm Mohammed Inayath!
 ### Full-Stack Developer | AI Enthusiast | Digital Creator
 
 
