@@ -1,11 +1,12 @@
 <div align="center">
-https://raw.githubusercontent.com/Itsmeinayath/Itsmeinayath/main/banner.png
-  
-# 👋 Hey, I'm Mohammed Inayath!
+
+  <img src="https://raw.githubusercontent.com/Itsmeinayath/Itsmeinayath/main/banner.png" alt="Banner" />
+
+# 👋 Hey, I'm Mohammed Inayath!  
 ### Full-Stack Developer | AI Enthusiast | Digital Creator
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=500&lines=Building+AI-Driven+Solutions;Full-Stack+Web+Developer;Always+Learning%2C+Always+Building;Let's+Create+Something+Amazing!" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+AI-Driven+Solutions;Full-Stack+Web+Developer;Always+Learning%2C+Always+Building;Let's+Create+Something+Amazing!" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,26 +21,15 @@ I'm a **curious builder** and **full-stack developer** passionate about creating
 
 ## 🚀 Current Focus
 
-<table>
-<tr>
-<td width="50%">
+### 🔥 Active Projects
+- 🛠️ **Worklog Pro** – Next-gen task & performance tracker  
+- 🤖 **AI Integration Tools** – Smart automation solutions  
+- 📚 **Learning Platform** – Interactive educational content  
 
-### 🔥 **Active Projects**
-- 🛠️ **Worklog Pro** – Next-gen task & performance tracker
-- 🤖 **AI Integration Tools** – Smart automation solutions
-- 📚 **Learning Platform** – Interactive educational content
-
-</td>
-<td width="50%">
-
-### 📈 **Growth Areas**
-- 🧠 **AI/ML Engineering** – Deep learning & neural networks
-- ☁️ **DevOps & Cloud** – Scalable system architecture
-- 🎯 **System Design** – Building robust, scalable solutions
-
-</td>
-</tr>
-</table>
+### 📈 Growth Areas
+- 🧠 **AI/ML Engineering** – Deep learning & neural networks  
+- ☁️ **DevOps & Cloud** – Scalable system architecture  
+- 🎯 **System Design** – Building robust, scalable solutions  
 
 ---
 
@@ -47,15 +37,11 @@ I'm a **curious builder** and **full-stack developer** passionate about creating
 
 <div align="center">
 
-### **Languages & Frameworks**
-<a href="https://skillicons.dev">
+### 🧩 Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=python,js,java,html,css,react,nextjs,nodejs,express,mongodb&theme=dark" />
-</a>
 
-### **Tools & Platforms**
-<a href="https://skillicons.dev">
+### ⚙️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,tailwind,figma&theme=dark" />
-</a>
 
 </div>
 
@@ -63,34 +49,18 @@ I'm a **curious builder** and **full-stack developer** passionate about creating
 
 ## 🌟 Key Highlights
 
-- 🚀 **10+ Projects** shipped and actively maintained
+- 🚀 **10+ Projects** shipped and actively maintained  
 - 💡 **AI Integration** in multiple production applications  
-- 📚 **90-Day Learning Challenge** – DSA + Full-Stack mastery
-- 🤝 **Open Source Contributor** – Building in public
+- 📚 **90-Day Learning Challenge** – DSA + Full-Stack mastery  
+- 🤝 **Open Source Contributor** – Building in public  
 
 ---
 
 ## 💡 Philosophy & Values
 
-<table>
-<tr>
-<td align="center" width="33%">
-<strong>🔍 Curiosity</strong>
-<br><br>
-Every challenge is an opportunity to grow and discover new possibilities.
-</td>
-<td align="center" width="33%">
-<strong>📈 Consistency</strong>
-<br><br>
-Small, consistent steps lead to extraordinary results over time.
-</td>
-<td align="center" width="33%">
-<strong>🤝 Community</strong>
-<br><br>
-Great things happen when passionate people collaborate and share knowledge.
-</td>
-</tr>
-</table>
+| 🔍 **Curiosity** | 📈 **Consistency** | 🤝 **Community** |
+|------------------|-------------------|------------------|
+| Every challenge is an opportunity to grow and discover new possibilities. | Small, consistent steps lead to extraordinary results over time. | Great things happen when passionate people collaborate and share knowledge. |
 
 ---
 
@@ -118,10 +88,10 @@ Started as a **curious tinkerer** who loved breaking things apart to understand 
 
 <div align="center">
 
-### 🎯 **"Code is poetry written in logic"**
+### 🎯 *"Code is poetry written in logic"*
 
 *Thanks for stopping by! If you find my work interesting, feel free to ⭐ a repo or drop me a line.*
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Itsmeinayath/Itsmeinayath/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
