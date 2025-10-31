@@ -1,3 +1,4 @@
+![Itsmeinayath's GitHub Banner](https://raw.githubusercontent.com/Itsmeinayath/Itsmeinayath/main/banner.png)
 <div align="center">
 
 # 👋 Hey, I'm Mohammed Inayath!
