@@ -1,6 +1,6 @@
-![Itsmeinayath's GitHub Banner](https://raw.githubusercontent.com/Itsmeinayath/Itsmeinayath/main/banner.png)
 <div align="center">
-
+https://raw.githubusercontent.com/Itsmeinayath/Itsmeinayath/main/banner.png
+  
 # 👋 Hey, I'm Mohammed Inayath!
 ### Full-Stack Developer | AI Enthusiast | Digital Creator
 
