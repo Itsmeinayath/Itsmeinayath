@@ -40,7 +40,7 @@ const mohammed = {
 };
 ```
 
-- 🔭 Working on **AI Integration Tools** and **Worklog Pro**
+- 🔭 Working on **AI Integration Tools** and **Chronithm**
 - 🌱 Learning **Deep Learning**, **Cloud Architecture**, and **System Design**
 - 💡 Passionate about **open source** and **building in public**
 - 🎯 Goal: Ship impactful products that solve real problems
@@ -114,7 +114,7 @@ const mohammed = {
 <td width="50%">
 
 #### 🔥 Active Projects
-- 🛠️ **Worklog Pro**  
+- 🛠️ **Chronithm**  
   *Next-gen task & performance tracker*
   
 - 🤖 **AI Integration Tools**  
