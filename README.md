@@ -1,95 +1,78 @@
-<div align="center">
+# 👋 Hey there, I'm **Inayath** 🚀  
 
-# 👋 Hey, I'm Mohammed Inayath!  
-### Full-Stack Developer | AI Enthusiast | Digital Creator
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=500&lines=Building+AI-Driven+Solutions;Full-Stack+Web+Developer;Always+Learning%2C+Always+Building;Let's+Create+Something+Amazing!" alt="Typing SVG" />
-
-</div>
+Welcome to my GitHub profile! I'm a passionate developer who loves building things that matter. Whether it's crafting elegant code, exploring new technologies, or solving complex problems, I'm always up for a challenge.
 
 ---
 
-## 🎯 About Me
+## 🌟 About Me  
 
-I'm a **curious builder** and **full-stack developer** passionate about creating technology that improves everyday life. From AI-driven tools to productivity apps, I love transforming ideas into impactful solutions through code and continuous learning.
-
-> *"Every project is a new adventure – a chance to learn, help others, and create something meaningful."*
-
----
-
-## 🚀 Current Focus
-
-### 🔥 Active Projects
-- 🛠️ **Worklog Pro** – Next-gen task & performance tracker  
-- 🤖 **AI Integration Tools** – Smart automation solutions  
-- 📚 **Learning Platform** – Interactive educational content  
-
-### 📈 Growth Areas
-- 🧠 **AI/ML Engineering** – Deep learning & neural networks  
-- ☁️ **DevOps & Cloud** – Scalable system architecture  
-- 🎯 **System Design** – Building robust, scalable solutions  
+- 💻 **Developer** | **Problem Solver** | **Tech Enthusiast**  
+- 🌍 Based in **[Your Location]** (or remote-friendly!)  
+- 🎯 Currently working on **[Your Current Project or Focus Area]**  
+- 🌱 Learning **[Technology/Skill You're Learning]**  
+- 💬 Ask me about **[Your Expertise or Interests]**  
+- ⚡ Fun fact: **[Something Unique About You]**  
 
 ---
 
-## 💻 Tech Stack & Skills
+## 🛠️ My Projects  
 
-<div align="center">
+Here are some of the cool things I've been working on:  
 
-### 🧩 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css,react,nextjs,nodejs,express,mongodb&theme=dark" />
+- 🛠️ **Chronithm** – Next-gen task & performance tracker  
+- 🌐 **[Project Name]** – [Brief Description]  
+- 🤖 **[Project Name]** – [Brief Description]  
+- 📱 **[Project Name]** – [Brief Description]  
 
-### ⚙️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,tailwind,figma&theme=dark" />
-
-</div>
-
----
-
-## 🌟 Key Highlights
-
-- 🚀 **10+ Projects** shipped and actively maintained  
-- 💡 **AI Integration** in multiple production applications  
-- 📚 **90-Day Learning Challenge** – DSA + Full-Stack mastery  
-- 🤝 **Open Source Contributor** – Building in public  
+Check out my repositories for more!  
 
 ---
 
-## 💡 Philosophy & Values
+## 🔧 Tech Stack  
 
-| 🔍 **Curiosity** | 📈 **Consistency** | 🤝 **Community** |
-|------------------|-------------------|------------------|
-| Every challenge is an opportunity to grow and discover new possibilities. | Small, consistent steps lead to extraordinary results over time. | Great things happen when passionate people collaborate and share knowledge. |
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 
----
+**Frameworks & Tools:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 
-## 🌱 My Journey
-
-Started as a **curious tinkerer** who loved breaking things apart to understand how they work. Now, I channel that curiosity into building solutions that make a difference. Every project teaches me something new, and I believe the best way to learn is by building real things that people actually use.
-
-**From experiments to production** – that's been my journey, and it's just getting started! 🚀
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-**Let's build something amazing together**
-
-[**LinkedIn**](https://www.linkedin.com/in/mohammedinayath1/) • [**Portfolio**](https://www.inayath.me/) • [**Email**](mailto:itsmemohammedinayath@gmail.com)
-
-*Always open to interesting conversations about tech, collaboration opportunities, and sharing knowledge.*
-
-</div>
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats  
 
-### 🎯 *"Code is poetry written in logic"*
+![Inayath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsmeinayath&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmeinayath&layout=compact&theme=radical)  
 
-*Thanks for stopping by! If you find my work interesting, feel free to ⭐ a repo or drop me a line.*
+---
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+## 🤝 Let's Connect  
 
-</div>
+- 💼 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🐦 **Twitter:** [@YourHandle](https://twitter.com/yourhandle)  
+- 📧 **Email:** your.email@example.com  
+- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
+
+---
+
+## 🎯 Goals for 2024  
+
+- [ ] Contribute to more open-source projects  
+- [ ] Build **[Specific Project or Skill]**  
+- [ ] Learn **[New Technology]**  
+- [ ] Collaborate with amazing developers like you!  
+
+---
+
+Thanks for stopping by! Feel free to explore my repos, and don't hesitate to reach out if you'd like to collaborate. 🚀  
+
+**Happy Coding!** 💻✨
