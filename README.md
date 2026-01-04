@@ -34,7 +34,7 @@ I build **scalable, maintainable systems** with a focus on real-world reliabilit
 - 📐 Long-term code maintainability  
 - 🎯 Transparent engineering tradeoffs  
 
-Currently building **Chronithm** — a privacy-first **AI Work Intelligence Engine** that reconstructs developer timelines from digital exhaust.
+Currently building **Chronithm** a privacy-first **AI Work Intelligence Engine** that reconstructs developer timelines from digital exhaust.
 
 ---
 
@@ -84,7 +84,7 @@ Chronithm is a **Context Reconstruction Engine** that solves the "fragmentation 
 - ⚡ **Async Ingestion:** Built on **BullMQ (Redis)** to handle high-volume webhook throughput without blocking.
 - 🔒 **Privacy-First:** Local-first data processing principles; PII stripping before AI inference.
 
-Chronithm is my **flagship product** — demonstrating full-stack architecture, AI engineering, and real-world problem solving.
+Chronithm is my **flagship product** demonstrating full-stack architecture, AI engineering, and real-world problem solving.
 
 ---
 
