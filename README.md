@@ -43,9 +43,9 @@ PostgreSQL • MongoDB
 
 <div align="center">
 
-![Inayath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsmeinayath&show_icons=true&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+![Inayath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsmeinayath&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmeinayath&layout=compact&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmeinayath&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
