@@ -59,7 +59,7 @@ Currently building **Chronithm** a privacy-first **AI Work Intelligence Engine**
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,kubernetes" alt="Tools"/>
 </p>
 
 </div>
