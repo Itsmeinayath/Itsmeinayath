@@ -1,24 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=L.Mohammed%20Inayath&fontSize=50&fontColor=fff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=L.%20Mohammed%20Inayath&fontSize=42&fontColor=fff&animation=fadeIn"/>
 
-</div>
+### Full-Stack Developer & CS Lecturer
 
-<div align="center">
-
-### Full-Stack Developer · Systems Thinker · Product Builder
-
-<a href="https://www.linkedin.com/in/mohammedinayath1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.inayath.me/">
-  <img src="https://img.shields.io/badge/Portfolio-00b4d8?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:itsmemohammedinayath@gmail.com">
-  <img src="https://img.shields.io/badge/Email-212121?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammedinayath1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.inayath.me/">
+    <img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:itsmemohammedinayath@gmail.com">
+    <img src="https://img.shields.io/badge/Email-212121?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
@@ -26,80 +24,49 @@
 
 ## 👨‍💻 About Me
 
-I build **scalable, maintainable systems** with a focus on real-world reliability.  
+I am a full-stack developer, currently splitting my time between building software and teaching computer science to undergrads. 
 
-**What drives me:**
-- 🏗️ Thoughtful system architecture & clean data flow  
-- 🔄 Resilient error handling & recovery mechanisms  
-- 📐 Long-term code maintainability  
-- 🎯 Transparent engineering tradeoffs  
-
-Currently building **Chronithm** a privacy-first **AI Work Intelligence Engine** that reconstructs developer timelines from digital exhaust.
+My engineering philosophy is simple: **build systems that survive the real world**. I care less about chasing the newest framework hype and more about writing code that doesn't break when an external API goes down. I focus on pragmatic problem-solving, clean data flow, and building fallbacks for when things inevitably fail.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ What I Work With
 
 <div align="center">
 
-### Languages & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,c" alt="Languages"/>
-</p>
+**Core:** JavaScript (ES6+), Python, Node.js, Express.js  
+**Frontend:** React, Tailwind CSS, HTML/CSS  
+**Data & Ops:** MongoDB, Git, Docker, Vercel, Heroku  
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend"/>
-</p>
+<br/>
 
-### Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend"/>
-</p>
-
-### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,kubernetes" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,express,react,tailwind,mongodb,git,github,heroku,docker,vercel&perline=6" alt="Tech Stack Icons"/>
 </p>
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 What I'm Building: Chronithm
 
-### [Chronithm](https://github.com/Itsmeinayath/Chronithm)
-*Privacy-First AI Work Intelligence Engine*
+**[Chronithm](https://github.com/Itsmeinayath/Chronithm)** is my current focus. It's a tool built to solve a problem I actually have: tracking developer work across different platforms is a fragmented mess. 
 
-Chronithm is a **Context Reconstruction Engine** that solves the "fragmentation tax" of modern engineering. It ingests signals from developer tools (**GitHub, Slack, Jira**) and uses **Google Gemini 1.5 Flash** to automatically generate daily standups and client reports.
+Instead of writing manual standup updates, Chronithm pulls in data from GitHub webhooks and Jira, normalizes it in MongoDB, and uses AI to summarize it into clean daily reports. 
 
-**Why Chronithm exists:**
-- **The Problem:** Developers work in 10 different tools but have 0 visibility into their actual day.
-- **The Solution:** Instead of "spying" with screenshots, Chronithm reconstructs a narrative from metadata.
-- **The Tech:** Solves the "Context Window" challenge by processing thousands of log tokens into a single cohesive timeline.
-
-**Engineering Highlights:**
-- 🧠 **AI-Native:** Powered by Gemini 1.5 Flash for long-context summarization.
-- 🏗️ **Polymorphic Schema:** A unified MongoDB architecture that normalizes disparate event payloads (Commits vs. Slack Threads).
-- ⚡ **Async Ingestion:** Built on **BullMQ (Redis)** to handle high-volume webhook throughput without blocking.
-- 🔒 **Privacy-First:** Local-first data processing principles; PII stripping before AI inference.
-
-Chronithm is my **flagship product** demonstrating full-stack architecture, AI engineering, and real-world problem solving.
+**How it works under the hood:**
+* **Dual Outputs:** The API uses custom prompt routing to generate two different summaries one highly technical report for developers, and one jargon free update for clients.
+* **Graceful Degradation:** Live AI demos fail. If the Gemini API hits a rate limit or a billing block, the server doesn't crash. It catches the error and safely falls back to returning the raw, formatted timeline logs.
+* **Separation of Concerns:** A React frontend on Vercel, a Node/Express backend on Heroku, and a unified database structure to handle vastly different incoming webhook payloads.
 
 ---
 
-## 🌐 Let's Connect
+## 🤝 Let's Talk
+
+Whether it's discussing systems architecture, full-stack roles, or figuring out how to survive bad API documentation my inbox is open.
 
 <div align="center">
 
-**Interested in discussing systems architecture, scalable solutions, or collaboration opportunities?**
-
-Let's talk. 
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
