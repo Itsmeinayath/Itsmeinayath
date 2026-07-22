@@ -50,7 +50,7 @@ My engineering philosophy is simple: **build systems that survive the real world
 
 ## 🚀 What I'm Building: Chronithm
 
-**[Chronithm](https://github.com/Itsmeinayath/Chronithm)** is my current focus. It's a tool built to solve a problem I actually have: tracking developer work across different platforms is a fragmented mess. 
+**[Chronithm](https://chronithm.vercel.app/)** is my current focus. It's a tool built to solve a problem I actually have: tracking developer work across different platforms is a fragmented mess. 
 
 Instead of writing manual standup updates, Chronithm pulls in data from GitHub webhooks and Jira, normalizes it in MongoDB, and uses AI to summarize it into clean daily reports. 
 
